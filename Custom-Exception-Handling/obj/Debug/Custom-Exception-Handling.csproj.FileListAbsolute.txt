@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\Custom-Exception-Handling\Custom-Exception-Handling\obj\Debug\Custom-Exception-Handling.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Custom-Exception-Handling\Custom-Exception-Handling\obj\Debug\Custom-Exception-Handling.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Custom-Exception-Handling\Custom-Exception-Handling\bin\Debug\Custom-Exception-Handling.exe.config
+C:\Users\Vishal\source\repos\Custom-Exception-Handling\Custom-Exception-Handling\bin\Debug\Custom-Exception-Handling.exe
+C:\Users\Vishal\source\repos\Custom-Exception-Handling\Custom-Exception-Handling\bin\Debug\Custom-Exception-Handling.pdb
+C:\Users\Vishal\source\repos\Custom-Exception-Handling\Custom-Exception-Handling\obj\Debug\Custom-Exception-Handling.exe
+C:\Users\Vishal\source\repos\Custom-Exception-Handling\Custom-Exception-Handling\obj\Debug\Custom-Exception-Handling.pdb

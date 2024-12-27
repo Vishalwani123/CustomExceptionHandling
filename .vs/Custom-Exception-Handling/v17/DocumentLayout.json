@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\CustomExceptionHandling.csproj|c:\\users\\vishal\\source\\repos\\custom-exception-handling\\custom-exception-handling\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\CustomExceptionHandling.csproj|solutionrelative:custom-exception-handling\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\Custom-Exception-Handling.csproj|C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\custom-exception-handling\\custexp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\Custom-Exception-Handling.csproj|solutionrelative:custom-exception-handling\\custexp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\Custom-Exception-Handling.csproj|C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\custom-exception-handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\Custom-Exception-Handling.csproj|solutionrelative:custom-exception-handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\Custom-Exception-Handling.csproj|C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\custom-exception-handling\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBA4F82-21DD-4EF5-96A6-B7FEEAC4F5AE}|Custom-Exception-Handling\\Custom-Exception-Handling.csproj|solutionrelative:custom-exception-handling\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustExp1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\CustExp1.cs",
+              "RelativeDocumentMoniker": "Custom-Exception-Handling\\CustExp1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\CustExp1.cs",
+              "RelativeToolTip": "Custom-Exception-Handling\\CustExp1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:01:49.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\Class1.cs",
+              "RelativeDocumentMoniker": "Custom-Exception-Handling\\Class1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\Class1.cs",
+              "RelativeToolTip": "Custom-Exception-Handling\\Class1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:15:41.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\Class2.cs",
+              "RelativeDocumentMoniker": "Custom-Exception-Handling\\Class2.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\Class2.cs",
+              "RelativeToolTip": "Custom-Exception-Handling\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:16:15.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Custom-Exception-Handling\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Custom-Exception-Handling\\Custom-Exception-Handling\\Program.cs",
+              "RelativeToolTip": "Custom-Exception-Handling\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:14:34.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
